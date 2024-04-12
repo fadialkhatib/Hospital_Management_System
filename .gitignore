@@ -4,8 +4,8 @@
 /public/hot
 /public/storage
 
-/vendor
-.env
+
+
 env.example
 .env.production
 Homestead.json
